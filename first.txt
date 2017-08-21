@@ -1,0 +1,12 @@
+public class AddProject{
+
+public static void add(){
+    int a ;
+	int b;
+    int sum;
+	System.out.println();
+
+  }
+
+
+}
