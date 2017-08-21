@@ -2,8 +2,8 @@ public class AddProject{
 
 public static void add(int a , int b;){
     
-    int sum;
-    sum=a+b;
+    
+   int sum=a+b;
 	System.out.println(sum);
   }
 
